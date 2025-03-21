@@ -9,6 +9,7 @@
 
 ⚽ Actualmente sigo al Nottingham Forest.
 
+![Wood y Elanga festejando un gol del Nottingham Forest](/img/Nottingham.jpg)
 
 ## Lenguajes de Programación Favoritos
 
