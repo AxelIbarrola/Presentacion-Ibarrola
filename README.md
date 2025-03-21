@@ -2,7 +2,7 @@
 
 ## Datos Personales
 
-+ 19 años
++ 20 años
 + 📍José C. Paz
 + Estudiante de la UNPAZ
 + Me gusta la programación, la lectura y el deporte
